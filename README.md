@@ -8,7 +8,7 @@ http://site.com/?wp-db-status=1
 
 Status reports look like this:
 
-````
+```json
 {
 
     "status": "OK",
@@ -19,7 +19,7 @@ Status reports look like this:
     "load_15m": "0"
 
 }
-````
+```
 
 You can observe the database uptime, page generation time (for the status call), and server load.
 
